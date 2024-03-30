@@ -15,9 +15,15 @@ Detailed profile is [here@Lapras](https://lapras.com/public/sato1043)
 ***
 
 (top langs stats with private repos is below.) <br />
+
 <img src="https://github-readme-stats-nine-chi-45.vercel.app/api/top-langs/?username=sato1043" alt="Top Langs" align="left" />
+
+画像はプライベートリポジトリからツール生成した本当のコード統計です。<br />
+
 コード統計はプライベートリポジトリを含めると八割方 TS/JS です。
 
-画像をツール生成してみました。
+（公開リポジトリのみ統計すると C/C# 人材と見做されます笑）
+
+公開できるお仕事があればもすこしスコア伸ばせるのですが、面目なく思います。
 
 smarty(？)は JS のテンプレートリテラルの見間違いと思います（PHPは触りません。）
