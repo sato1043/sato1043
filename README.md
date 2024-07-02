@@ -21,3 +21,5 @@ Detailed profile is [here@Lapras](https://lapras.com/public/sato1043)
 画像はプライベートリポジトリを含めたコード統計で、八割方 TS/JS です。
 
 smarty(？)は JS のテンプレートリテラルの見間違いと思います（PHPは触りません。）
+
+※ github-readme-stats のREADME によれば、Fork させていただいているコードは含まれない統計だとのこと
